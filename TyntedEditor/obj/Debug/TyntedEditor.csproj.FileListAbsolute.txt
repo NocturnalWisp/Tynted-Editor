@@ -10,3 +10,15 @@ c:\users\thelm2\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TyntedE
 c:\users\thelm2\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 c:\users\thelm2\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 c:\users\thelm2\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TyntedEditor.csprojAssemblyReference.cache
+C:\temp\Tynted-Editor\TyntedEditor\bin\Debug\WindowsFormsApp1.exe.config
+C:\temp\Tynted-Editor\TyntedEditor\bin\Debug\WindowsFormsApp1.exe
+C:\temp\Tynted-Editor\TyntedEditor\bin\Debug\WindowsFormsApp1.pdb
+C:\temp\Tynted-Editor\TyntedEditor\obj\Debug\TyntedEditor.csprojAssemblyReference.cache
+C:\temp\Tynted-Editor\TyntedEditor\obj\Debug\WindowsFormsApp1.EntityItem.resources
+C:\temp\Tynted-Editor\TyntedEditor\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\temp\Tynted-Editor\TyntedEditor\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\temp\Tynted-Editor\TyntedEditor\obj\Debug\WindowsFormsApp1.SelectableLayoutPanel.resources
+C:\temp\Tynted-Editor\TyntedEditor\obj\Debug\TyntedEditor.csproj.GenerateResource.cache
+C:\temp\Tynted-Editor\TyntedEditor\obj\Debug\TyntedEditor.csproj.CoreCompileInputs.cache
+C:\temp\Tynted-Editor\TyntedEditor\obj\Debug\WindowsFormsApp1.exe
+C:\temp\Tynted-Editor\TyntedEditor\obj\Debug\WindowsFormsApp1.pdb

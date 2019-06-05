@@ -76,11 +76,14 @@ namespace WindowsFormsApp1
 
         public void DeselectItems()
         {
-            foreach (EntityItem item in selected)
+            if (!ModifierKeys.HasFlag(Keys.Shift))
             {
-                item.BackColor = unselectedColor;
+                foreach (EntityItem item in selected)
+                {
+                    item.BackColor = unselectedColor;
+                }
+                selected.Clear();
             }
-            selected.Clear();
         }
     }
 }
